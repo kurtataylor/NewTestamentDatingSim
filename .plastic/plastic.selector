@@ -1,0 +1,4 @@
+repository "NewTestamentDatingSim@KurtTaylor@cloud"
+  path "/"
+    smartbranch "/main/KurtWork"  
+     
